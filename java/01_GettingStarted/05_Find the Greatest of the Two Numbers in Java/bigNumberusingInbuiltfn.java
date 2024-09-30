@@ -15,7 +15,7 @@ public class bigNumberusingInbuiltfn {
         }
     else
     {
-        System.out.println(Math.max(num1,num2));
+        System.out.println(Math.max(num1,num2)+ " is greater number");
     }
     }
    
